@@ -1,5 +1,5 @@
 # Calculator
-A calculator based on HTML, CSS, BOOTSTRAP and JAVASCRIPT with responsive web design according to various viewports.
+A calculator app based on HTML, CSS, BOOTSTRAP and JAVASCRIPT with responsive web design according to various viewports.
 
 Project Demo here - https://kinshuk-644.github.io/Calculator/
 
